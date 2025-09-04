@@ -1,0 +1,7 @@
+streamlit==1.21.0
+pandas
+transformers
+torch
+openai-whisper
+streamlit-webrtc
+streamlit-calendar
